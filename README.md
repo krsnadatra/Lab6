@@ -1,4 +1,4 @@
-# Sourcecode-Materi6PercabangandanPerulanganKompleks
+# Sourcecode-Materi 6 Percabangandan Perulangan
 #JoshuaWanggai-71200671  
 #https://dh3di.blogspot.com/2018/08/algoritma-percabangan-bertingkat.html  
 
