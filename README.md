@@ -1,6 +1,5 @@
 # Sourcecode-Materi 6 Percabangandan Perulangan
-#JoshuaWanggai-71200671  
-#https://dh3di.blogspot.com/2018/08/algoritma-percabangan-bertingkat.html  
+#Gede Krishna - 311910429
 
 ''' input 
 avanza = b.sewa 300k &amp; b.asuransi 15k 
